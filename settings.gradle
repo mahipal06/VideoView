@@ -1,0 +1,2 @@
+rootProject.name = "videoView"
+include ':app'
